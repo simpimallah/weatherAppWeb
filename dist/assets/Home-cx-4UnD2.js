@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as r,a as o}from"./index-S6pMhctB.js";const s={},c={class:"home-page"};function n(l,e){return r(),a("div",c,e[0]||(e[0]=[o("h1",null,"Welcome to WeatherApp",-1),o("p",null,"Search real-time weather by city and view your history.",-1)]))}const d=t(s,[["render",n],["__scopeId","data-v-d4360028"]]);export{d as default};
